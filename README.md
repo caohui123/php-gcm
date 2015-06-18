@@ -1,4 +1,5 @@
 # Google Cloud Message PHP SDK
+[![Build Status](https://travis-ci.org/gianarb/php-gcm.svg)](https://travis-ci.org/gianarb/php-gcm)  
 PHP sdk to push android notifications with Google Cloud Manager
 
 ## Install
