@@ -1,0 +1,27 @@
+{
+    "name": "gianarb/php-gcm",
+    "description": "Send push notification from your application with Google Cloud Message service",
+    "require": {
+        "guzzlehttp/guzzle": "^6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GianArb\\GDM\\": "./src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GianArb\\": "./tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gianluca Arbezzano",
+            "email": "gianarb92@gmail.com"
+        }
+    ]
+}
