@@ -1,8 +1,8 @@
 <?php
 
-namespace GianArb\GDMTest;
+namespace GianArb\GCMTest;
 
-use GianArb\GDM\Publisher;
+use GianArb\GCM\Publisher;
 
 class PublisherTest extends \PHPUnit_Framework_TestCase
 {

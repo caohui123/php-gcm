@@ -1,6 +1,6 @@
 <?php
 
-namespace GianArb\GDM;
+namespace GianArb\GCM;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;
